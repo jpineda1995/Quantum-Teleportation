@@ -1,4 +1,4 @@
-# Quantum-Teleportation
+# Quantum-Teleportation with Qiskit
 
 A brief introduction to quantum teleportation using the Qiskit package, and computation of the Average Fidelity of states. 
 
